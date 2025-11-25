@@ -18,3 +18,11 @@ View your app in AI Studio: https://ai.studio/apps/drive/1EX_EjTEYG3tjueZNjernxA
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+
+
+# My App link after deployment 🔗
+**Production Deployment**
+
+1. https://nexus-mena.vercel.app/
+2. https://nexus-mena-git-main-rahma-sleams-projects.vercel.app/
+3. https://nexus-mena-f9z7eb9nk-rahma-sleams-projects.vercel.app/
